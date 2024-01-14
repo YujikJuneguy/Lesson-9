@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    width: 500px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+table,
+td,th {
+    border: 1px solid; 
+    padding: 2px ;
+    border-collapse: collapse;
+    width: 400px;
+    }
+.last {
+    border: 1px solid white;
+}    
+   
